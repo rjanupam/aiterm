@@ -1,3 +1,3 @@
-# AI-Term
+# aiterm
 
-AI based CLI tool, to help fasten terminal usage
+kinda something
